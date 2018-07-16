@@ -2,5 +2,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #This Repo is based on the tutorial of React.js
 
-Can be found [here] (https://reactjs.org/tutorial/tutorial.html#why-immutability-is-important) 
+[Can be found here](https://reactjs.org/tutorial/tutorial.html#why-immutability-is-important) 
 
